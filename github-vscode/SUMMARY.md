@@ -1,0 +1,16 @@
+# Sumário
+
+* [Início](README.md)
+* [Unidade 1 — O que é Controle de Versão](01-controle-de-versao.md)
+* [Unidade 2 — Instalando e Configurando o Git](02-instalando-configurando-git.md)
+* [Unidade 3 — Comandos Essenciais do Git](03-comandos-essenciais-git.md)
+* [Unidade 4 — Trabalhando com Branches](04-branches.md)
+* [Unidade 5 — GitHub: Criando Conta e Repositório Remoto](05-github-conta-repositorio.md)
+* [Unidade 6 — .gitignore e Boas Práticas de Commit](06-gitignore-boas-praticas.md)
+* [Unidade 7 — Colaboração no GitHub](07-colaboracao-github.md)
+* [Unidade 8 — Publicando com GitHub Pages](08-github-pages.md)
+* [Unidade 9 — VS Code: Instalação e Primeiros Passos](09-vscode-instalacao.md)
+* [Unidade 10 — VS Code: Extensões Essenciais](10-vscode-extensoes.md)
+* [Unidade 11 — VS Code: Atalhos e Produtividade](11-vscode-atalhos.md)
+* [Unidade 12 — VS Code: Configurações e Personalização](12-vscode-configuracoes.md)
+* [Unidade 13 — VS Code + Git Integrados](13-vscode-git-integrado.md)
